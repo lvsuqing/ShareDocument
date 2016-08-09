@@ -10,7 +10,8 @@
 [我从55个Swift标准库协议中学到了什么？](http://www.cocoachina.com/swift/20160107/14868.html)  
 [GitHub 上 iOS 开源库 Top 100](http://ios.jobbole.com/84388/)  
 ##web前端
-[使用Flexible实现手淘H5页面的终端适配](http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
+[使用Flexible实现手淘H5页面的终端适配](http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)  
+[css清除浮动的8种方法](http://www.webclks.com/archives/3618)
 ##Java后台
 [Intellij idea 使用教程 包括安装，配置，使用，插件等](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)  
 [Mybatis通用Mapper] (http://blog.csdn.net/isea533/article/details/41457529)  
